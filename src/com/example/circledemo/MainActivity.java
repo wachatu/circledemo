@@ -2,7 +2,12 @@ package com.example.circledemo;
 
 import android.os.Bundle;
 import android.app.Activity;
-
+/**
+ * 我是来学习git的 哈哈
+ * 多谢指教哦
+ * @author Lichen Kang
+ *
+ */
 public class MainActivity extends Activity {
 	private TimerCircleBar mCircleBar;
 
