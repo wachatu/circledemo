@@ -89,7 +89,6 @@ public class TimerCircleBar extends View {
 		int min = Math.min(width, height);
 		setMeasuredDimension(min, min);
 		mColorWheelRadius = min - circleStrokeWidth -pressExtraStrokeWidth ;
-
 		mColorWheelRectangle.set(circleStrokeWidth+pressExtraStrokeWidth, circleStrokeWidth+pressExtraStrokeWidth,
 				mColorWheelRadius, mColorWheelRadius);
 	}
