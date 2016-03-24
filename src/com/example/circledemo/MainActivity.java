@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
 		mCircleBar = (TimerCircleBar) findViewById(R.id.circle);
 		mCircleBar.setSweepAngle(360);
 		mCircleBar.startCustomAnimation();
-		
+		// master
 	}
 
 }
